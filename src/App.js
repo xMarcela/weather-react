@@ -7,12 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Weather />
-      </header>
-      <footer>
         <p>
-          <a href="https://github.com/xMarcela/weather-react" target="_blank">Open-source code</a> by A. Marcela Ravn
+          <a href="https://github.com/xMarcela/weather-react" target="_blank" rel="noreferrer">Open-source code</a> by A. Marcela Ravn
         </p>
-      </footer>
+      </header>
+
     </div>
   );
 }
