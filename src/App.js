@@ -8,6 +8,11 @@ function App() {
       <header className="App-header">
         <Weather />
       </header>
+      <footer>
+        <p>
+          <a href="https://github.com/xMarcela/weather-react" target="_blank">Open-source code</a> by A. Marcela Ravn
+        </p>
+      </footer>
     </div>
   );
 }
