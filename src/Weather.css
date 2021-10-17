@@ -1,0 +1,14 @@
+
+.weathercontainer {
+    padding: 55px;
+    border: 2px solid #d1cebd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-right: 9px;
+}
+
+.weathercontainer li {
+    list-style: none;
+    text-align: left;
+}
+
